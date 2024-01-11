@@ -1,0 +1,24 @@
+Hello World, This is My Kotlin Notes.
+
+Kotlin is sponsored by Google and made it official language for the Android Development in 2017. You can have both the java and kotlin code in one project.
+
+Kotlin is :
+
+1. Statically typed object oriented language.
+2. Targets JVM, Android, native and even JavaScript and serverside also.
+3. Can do anything which java can do.
+4. Combines Object Oriented and Functional Programming features.
+5. It is Object Oriented Language But Functional language.
+6. Developed and maintained by JetBrains.
+7. Open Source
+8. Release under Apache 2 OSS Licence.
+
+Fetures : 
+1. Concise - Drastically reduce the amount of boilerplate code.
+2. Safe - Avoid entire classes of errors such as Null pointer exception
+3. Expressive -
+4. Interoperable - 100% interoperable with java. support for Android, Browser and Native.
+5. Feature-rich - several advanced features such as Operator overloading, Lambda expressions, String templates.
+6. Tool-friendly - Excellent tooling support from JetBrains.
+
+-> to practice, go to kotlin playground.
