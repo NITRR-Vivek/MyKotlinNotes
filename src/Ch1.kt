@@ -18,7 +18,7 @@ fun main(array: Array<String>) {
 //  var - Variables that can be reassigned
 //   Dynamic Type
 //    var roll = 10                   //Integer
-//    var mobilenumber = 9990000000L  //Long
+//    var mobilenumber = 9000L  //Long
 //    var price = 83.12f              //float
 //    var totalcost = 6324.3215       //double
 //    var gender = 'F'                //char
