@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6f4cf24-3d62-44c8-93fb-a43d31829bb5" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Ch10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12.kt" afterDir="false" />
+    <list default="true" id="e6f4cf24-3d62-44c8-93fb-a43d31829bb5" name="Changes" comment="access modifiers added">
       <change afterPath="$PROJECT_DIR$/src/Ch13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/services/openyt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/utils/ut.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch12.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -27,16 +34,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "assignee": "NITRR-Vivek"
+      &quot;assignee&quot;: &quot;NITRR-Vivek&quot;
     }
   ],
-  "lastFilter": {
-    "assignee": "NITRR-Vivek"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;NITRR-Vivek&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -59,9 +66,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MyJava.executor": "Run",
     "Kotlin.Ch10Kt.executor": "Run",
     "Kotlin.Ch11Kt.executor": "Run",
     "Kotlin.Ch12Kt.executor": "Run",
+    "Kotlin.Ch13Kt.executor": "Run",
+    "Kotlin.Ch14Kt.executor": "Run",
+    "Kotlin.Ch15Kt.executor": "Run",
+    "Kotlin.Ch16Kt.executor": "Run",
+    "Kotlin.Ch17Kt.executor": "Run",
+    "Kotlin.Ch18Kt.executor": "Run",
     "Kotlin.Ch1Kt.executor": "Run",
     "Kotlin.Ch2Kt.executor": "Run",
     "Kotlin.Ch3Kt.executor": "Run",
@@ -71,6 +85,7 @@
     "Kotlin.Ch8Kt.executor": "Run",
     "Kotlin.Ch9Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.UtKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -81,37 +96,37 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Ch12Kt">
-    <configuration name="Ch10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10Kt" />
+  <component name="RunManager" selected="Kotlin.UtKt">
+    <configuration name="MyJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyJava" />
       <module name="MyKotlinNotes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ch11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11Kt" />
+    <configuration name="Ch16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16Kt" />
       <module name="MyKotlinNotes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ch12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12Kt" />
+    <configuration name="Ch17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch17Kt" />
       <module name="MyKotlinNotes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ch8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch8Kt" />
+    <configuration name="Ch18Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch18Kt" />
       <module name="MyKotlinNotes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ch9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch9Kt" />
+    <configuration name="UtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.utils.UtKt" />
       <module name="MyKotlinNotes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Ch12Kt" />
-        <item itemvalue="Kotlin.Ch11Kt" />
-        <item itemvalue="Kotlin.Ch10Kt" />
-        <item itemvalue="Kotlin.Ch9Kt" />
-        <item itemvalue="Kotlin.Ch8Kt" />
+        <item itemvalue="Kotlin.UtKt" />
+        <item itemvalue="Application.MyJava" />
+        <item itemvalue="Kotlin.Ch18Kt" />
+        <item itemvalue="Kotlin.Ch17Kt" />
+        <item itemvalue="Kotlin.Ch16Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705791804988</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="access modifiers added">
+      <option name="closed" value="true" />
+      <created>1705799804895</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705799804895</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +231,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="access modifiers added" />
+    <option name="LAST_COMMIT_MESSAGE" value="access modifiers added" />
   </component>
 </project>

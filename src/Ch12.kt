@@ -52,4 +52,4 @@ fun main() {
 //    f1.b = 111      // can't be accesses as it is protected
     f1.c = 123
 }
-//class Father3 private constructor(a:Int){....}
+//class Father3 private constructor(a:Int){....}        //constructor keyword must be used if using visibility modifier in primary constructor
